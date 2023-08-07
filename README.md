@@ -36,7 +36,7 @@
 <br/>
 
 ### 🔨 Languages and Tools:
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 0 15px; flex-wrap: wrap;">
   <img title="javascript" src="./assets/icons/javascript.svg" alt="javascript" height="36px"/>
   <img title="react" src="./assets/icons/react.svg" alt="react" height="36px"/>
   <img title="typescript" src="./assets/icons/typescript.svg" alt="typescript" height="36px"/>
