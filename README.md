@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, I'm Andrés Guano!</h1>
 
-
-
 <div style="display: flex; gap: 10px;">
   <a href='https://www.linkedin.com/in/andres-guano-valencia/?locale=en_US'>
     <img align='left' alt="linkedin" src="./assets/social/linkedin.svg" height='36px'/>
@@ -10,6 +8,7 @@
     <img align='left' alt="twitter" src="./assets/social/x.svg" height='36px'/>
   </a>
 </div>
+<br/>
 <br/>
 
 
